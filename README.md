@@ -1,2 +1,1 @@
-# REST
-SPRING BOOT
+# spring-boot-crud-example
